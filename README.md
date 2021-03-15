@@ -38,3 +38,4 @@ RODANDO O PROJETO NO BACKEND
 ## Funções e Backend feito por Carlos Ferreira
 * [github](https://www.github.com/CarlosSTS)
 * [email](mailto://carlossts826@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/carlos-ferreira-4b2ba219a/)
