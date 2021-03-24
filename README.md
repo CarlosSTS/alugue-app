@@ -1,6 +1,6 @@
 # ALUGUE APP
 1. Interface App Alugue
-2. Projeto baseado em Apps's como AirBnB
+2. Projeto baseado em Apps como AirBnB
 
 ## módulos
 
