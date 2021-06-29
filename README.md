@@ -33,7 +33,7 @@ RODANDO O PROJETO NO BACKEND
 
 ****
 
-## Mobile Feito por https://github.com/sujeitoprogramador/alugue-app
+## Mobile Feito por [Sujeito programador](https://github.com/sujeitoprogramador/alugue-app)
 
 ## Funções e Backend feito por Carlos Ferreira
 * [github](https://www.github.com/CarlosSTS)
