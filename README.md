@@ -9,6 +9,9 @@ O app contém os seguintes módulos
 * uma tela de Home que mostra a novidades, desconto e promoções
 * uma tela de detalhe para mais informações sobre o que está a ser alugado
 
+## Veja no LinkedIn
+* [Ir para o LinkedIn](https://www.linkedin.com/posts/carlos-ferreira-4b2ba219a_backend-do-projeto-alugue-usando-mongodb-activity-6749161160559353856-EFuP)
+
 ## Páginas do app
 ![Foto do App](https://camo.githubusercontent.com/7d26ee99837a3a7e8da7b39a30557d60e33b92b4bbca0235ca01163641728894/68747470733a2f2f692e6962622e636f2f314c3931534a762f6d6f636b75702e706e67)
 
@@ -30,8 +33,6 @@ RODANDO O PROJETO NO BACKEND
 * O dbname será o nome do banco, isso fica a sua escolha, no meu caso o nome escolhido foi alugue.
 * Retire também os <> quando adicionar a senha e o nome do banco para fazer a conexão
 * essas informações podem ser vista em Database Access logo depois da geração do seu Clusters
-
-****
 
 ## Mobile Feito por [Sujeito programador](https://github.com/sujeitoprogramador/alugue-app)
 
