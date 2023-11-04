@@ -1,4 +1,4 @@
-# ALUGUE APP
+# Alugue-app
 1. Interface App Alugue
 2. Projeto baseado em Apps como AirBnB
 
