@@ -15,9 +15,6 @@ O app contém os seguintes módulos
 ## Páginas do app
 ![Foto do App](https://camo.githubusercontent.com/7d26ee99837a3a7e8da7b39a30557d60e33b92b4bbca0235ca01163641728894/68747470733a2f2f692e6962622e636f2f314c3931534a762f6d6f636b75702e706e67)
 
-## Páginas do Backend
-![backend do App](https://github.com/CarlosSTS/ALUGUE/blob/master/backend.jpeg)
-
 ## MOBILE
 RODANDO O PROJETO MOBILE
 * yarn install => para instalar as Dependências do projeto
