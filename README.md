@@ -13,7 +13,7 @@ O app contém os seguintes módulos
 * [Ir para o LinkedIn](https://www.linkedin.com/posts/carlos-ferreira-4b2ba219a_backend-do-projeto-alugue-usando-mongodb-activity-6749161160559353856-EFuP)
 
 ## Páginas do app
-![Foto do App](https://camo.githubusercontent.com/7d26ee99837a3a7e8da7b39a30557d60e33b92b4bbca0235ca01163641728894/68747470733a2f2f692e6962622e636f2f314c3931534a762f6d6f636b75702e706e67)
+![Foto do App](https://camo.githubusercontent.com/427a6ebb61dc62748779f1fcce5f240bf2a981f7655614e0bc86f488192d8a3e/68747470733a2f2f692e6962622e636f2f314c3931534a762f6d6f636b75702e706e67)
 
 ## MOBILE
 RODANDO O PROJETO MOBILE
