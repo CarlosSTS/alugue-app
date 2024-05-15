@@ -13,7 +13,7 @@ O app contém os seguintes módulos
 * [Ir para o LinkedIn](https://www.linkedin.com/posts/carlos-ferreira-4b2ba219a_backend-do-projeto-alugue-usando-mongodb-activity-6749161160559353856-EFuP)
 
 ## Páginas do app
-![Foto do App](https://camo.githubusercontent.com/427a6ebb61dc62748779f1fcce5f240bf2a981f7655614e0bc86f488192d8a3e/68747470733a2f2f692e6962622e636f2f314c3931534a762f6d6f636b75702e706e67)
+![Foto do App](https://firebasestorage.googleapis.com/v0/b/portfolio-web-7fbff.appspot.com/o/github_projects%2Falugue-app%2Falugue.png?alt=media&token=50fdd910-587f-4ad1-98cc-c76f9ad3a945)
 
 ## MOBILE
 RODANDO O PROJETO MOBILE
