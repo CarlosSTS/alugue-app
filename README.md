@@ -24,7 +24,7 @@ RODANDO O PROJETO MOBILE
 
 ## BACKEND
 RODANDO O PROJETO NO BACKEND
-* yarn install => para instalar as Dependências do projeto
+* yarn install => para instalar as dependências do projeto
 * Faça Login ou crie uma conta no mongoDB atlas
 * faça uma criação de um Clusters no seu mongoDB e troque os nomes aplicativo1 para o nome do seu admin e password pela senha gerada automaticamente no mongoDB
 * O dbname será o nome do banco, isso fica a sua escolha, no meu caso o nome escolhido foi alugue.
